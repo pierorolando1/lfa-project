@@ -24,7 +24,7 @@ Este proyecto consiste en una simulación de una máquina expendedora de café q
 ```bash
 # Clonar el repositorio desde GitHub (opcional si no tienes el proyecto localmente)
 git clone https://github.com/pierorolando1/lfa-project.git
-cd maquina-expendedora-cafe
+cd lfa-project
 ```
 
 ### 2. Configurar y ejecutar el autómata
