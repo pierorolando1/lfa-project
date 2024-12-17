@@ -85,6 +85,7 @@ lfa-project/
 ├── vending-coffee-automata/   # Código del autómata en Python
 │   ├── app.py                # Archivo principal del servidor Flask
 │   ├── requirements.txt      # Dependencias del autómata
+│   ├── automatadfa.py        # Automata
 │   └── ...                   # Otros archivos
 ├── vending-coffee-ui/        # Interfaz en React
 │   ├── src/                  # Código fuente de la interfaz
