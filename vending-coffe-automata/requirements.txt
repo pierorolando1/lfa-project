@@ -1,0 +1,5 @@
+automata-lib==8.4.0
+cached_method==0.1.0
+frozendict==2.4.6
+networkx==3.4.2
+typing_extensions==4.12.2
